@@ -20,3 +20,5 @@
 - 商君书 - 商鞅
 - 西游记 - 吴承恩
 - 毛泽东选集 - 毛泽东
+- The Final Problem - Steven Moffat, Mark Gatiss
+- Shōgun - Rachel Kondo, Justin Marks
